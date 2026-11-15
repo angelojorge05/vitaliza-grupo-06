@@ -1,4 +1,4 @@
-# Vitaliza · grupo 08
+# Vitaliza · grupo 06
 
 Projeto do MBA em IA e Dados para Negócios (Módulo 2, Trilha de Tecnologia).
 
